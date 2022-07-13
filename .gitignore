@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Output
+app/
+
+# Editor
+.vscode/
+!launch.json
+
+# Misc
+.DS_Store
